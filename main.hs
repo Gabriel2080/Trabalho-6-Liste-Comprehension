@@ -54,5 +54,5 @@ main = do
   print(produtoEscalar [1,2,3,4,5] [3,4,5,6,7])
   putStr "primeirosPrimos: entrada: 10; resultado: "
   print(primeirosPrimos 10)
-  putStr "paresOrdenados: entrada: 5; resultado: "
+  putStr "paresOrdenados: entrada: 2; resultado: "
   print(paresOrdenados 2)
